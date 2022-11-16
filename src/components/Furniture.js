@@ -21,7 +21,7 @@ const Menu = ({children}) => {
   return (
     <div
       style={{
-        border: "1px solid black",
+        border: "1px solid blue",
         position: "absolute",
         right: -WIDTH,
         background: "#fff",
